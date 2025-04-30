@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudiarvin
-- 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m interested in learning more everyday.
+- 🌱 I’m currently a system operations engineer.
 - 💞️ I’m looking to collaborate on becoming a devOps.
 - 📫 How to reach me You can find me on LinkedIn.
 
